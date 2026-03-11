@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/icon.png" width="128" height="128" alt="openowl">
+  <img src="icon.png" width="128" height="128" alt="openowl">
 </p>
 
 <h1 align="center">openowl</h1>
